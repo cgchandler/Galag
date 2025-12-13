@@ -1,0 +1,73 @@
+# =========================
+# GameMaker Studio 2
+# =========================
+
+# Build output
+/build/
+build/
+*.exe
+*.app
+*.apk
+*.aab
+*.ipa
+*.zip
+
+[Bb]bin/
+
+# Compiled data
+*.yyc
+*.yydebug
+
+# Cache and temp
+/cache/
+Cache/
+*.tmp
+*.temp
+
+# Runtime generated
+/options/android/keystore/
+/options/ios/ProvisioningProfiles/
+
+# =========================
+# IDE and User Settings
+# =========================
+
+# GameMaker user data
+*.user
+*.prefs
+*.local
+*.bak
+
+# Visual Studio (if using GMS2 + VS)
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# =========================
+# OS Generated Files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs and Diagnostics
+# =========================
+
+*.log
+logs/
+
+# =========================
+# Backup Files
+# =========================
+
+*.autosave
+*.backup
