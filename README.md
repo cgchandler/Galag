@@ -3,7 +3,7 @@
 A classic arcade-style space shooter inspired by *Galaga*, built using **GameMaker Studio 2**.
 
 This project was created as a learning and experimentation exercise, focusing on core arcade mechanics such as player movement, enemy formations, projectile handling, collision detection, and score tracking. 
-Additionally, This game supports power ups including extra live, bombs, and missles.
+Additionally, This game supports power ups including extra live, bombs, and missiles.
 
 ---
 
